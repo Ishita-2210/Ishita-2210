@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# ISHITA SAHU
+
 
 ### Embedded AI · FPGA · ADAS · Computer Vision
 

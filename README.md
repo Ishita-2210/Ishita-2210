@@ -24,7 +24,7 @@ I'm an **Electronics & Communication Engineering undergraduate at IIIT Kottayam*
 
 My work spans from developing **embedded ADAS software** and real-time computer vision systems to researching **FPGA-based machine learning acceleration**.
 
-I enjoy working close to the system — understanding how a model works, optimizing it, and eventually thinking about how it can run efficiently on real hardware.
+I enjoy working close to the system — understanding how a model works, optimizing it, and thinking about how it can be efficiently deployed on real hardware.
 
 Currently exploring:
 
@@ -32,7 +32,7 @@ Currently exploring:
 
 ---
 
-## WHAT I WORK WITH
+# TECH STACK
 
 ### LANGUAGES
 
@@ -50,19 +50,35 @@ Currently exploring:
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" height="45"/>
 </p>
 
-`PyTorch` · `TensorFlow` · `Scikit-learn` · `XGBoost` · `YOLO`  
+`PyTorch` · `TensorFlow` · `Scikit-learn` · `XGBoost` · `YOLO`
+
 `Hugging Face` · `Sentence Transformers` · `Deep Learning` · `Signal Processing`
 
 ---
 
-### EMBEDDED / FPGA
+### FPGA / HARDWARE ACCELERATION
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,arduino" height="45"/>
 </p>
 
-`FPGA` · `Vivado` · `hls4ml` · `AXI` · `ESP32`  
-`Embedded Linux` · `OpenGL` · `PyQt5` · `UDP` · `Hardware-Software Co-Design`
+`FPGA` · `Vivado` · `Vitis` · `hls4ml` · `AXI`
+
+`Xilinx Zynq` · `ESP32` · `Embedded Linux`
+
+`Hardware-Software Co-Design` · `Quantization` · `Low-Latency Inference`
+
+---
+
+### EMBEDDED / ADAS
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,linux" height="45"/>
+</p>
+
+`C++` · `Python` · `OpenGL` · `PyQt5` · `UDP`
+
+`Embedded Linux` · `Camera Systems` · `ADAS` · `Surround View Systems`
 
 ---
 
@@ -72,7 +88,8 @@ Currently exploring:
 <img src="https://skillicons.dev/icons?i=python,postgres" height="45"/>
 </p>
 
-`Google ADK` · `Gemini API` · `RAG` · `Multi-Agent Systems`  
+`Google ADK` · `Gemini API` · `RAG` · `Multi-Agent Systems`
+
 `SQL` · `REST APIs` · `Tool Calling` · `Agent Orchestration`
 
 ---
@@ -83,35 +100,84 @@ Currently exploring:
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,react,nodejs,postgres" height="45"/>
 </p>
 
-`Git` · `GitHub` · `Docker` · `React` · `TypeScript`  
+`Git` · `GitHub` · `Docker` · `React` · `TypeScript`
+
 `Node.js` · `Express.js` · `PostgreSQL` · `VS Code`
 
 ---
 
-## EXPERIENCE
+# EXPERIENCE
 
-**Tata Elxsi**  
-`Project Trainee — ADAS & Autonomous Driving`
+### TATA ELXSI
 
-Working on embedded ADAS software and a **Surround View System**, including real-time camera switching, UDP communication, camera pose synchronization, OpenGL rendering, and embedded deployment across TI/Qualcomm platforms. :contentReference[oaicite:2]{index=2}
+**Project Trainee — ADAS & Autonomous Driving**
 
-<br>
+`May 2026 — Present`
 
-**Sphinx Lab · IIIT Kottayam**  
-`Research Intern — FPGA-Based ML Acceleration`
-
-Researching FPGA-based acceleration of ANN/CNN models using **hls4ml**, AXI-based custom IP, Xilinx Zynq platforms, quantization, and low-latency Edge AI inference. :contentReference[oaicite:3]{index=3}
+Working on embedded ADAS software and a **Surround View System**, including real-time camera switching, UDP communication, camera pose synchronization, OpenGL rendering, and embedded deployment across TI/Qualcomm platforms.
 
 ---
 
-## AREAS I'M INTERESTED IN
+### SPHINX LAB · IIIT KOTTAYAM
 
-```text
-01  Embedded Artificial Intelligence
-02  Edge AI & TinyML
-03  FPGA & Hardware Acceleration
-04  Advanced Driver Assistance Systems
-05  Computer Vision
-06  Machine Learning & Deep Learning
-07  Signal Processing & Brain-Computer Interfaces
-08  Intelligent Embedded Systems
+**Research Intern — FPGA-Based ML Acceleration**
+
+`May 2026 — Present`
+
+Researching FPGA-based acceleration of ANN/CNN models using **hls4ml**, AXI-based custom IP, Xilinx Zynq platforms, quantization, and low-latency Edge AI inference.
+
+---
+
+# AREAS OF INTEREST
+
+### EMBEDDED AI
+Building intelligent systems that bring machine learning closer to the edge.
+
+### FPGA & HARDWARE ACCELERATION
+Exploring neural-network acceleration, hardware-software co-design, and efficient inference on FPGA platforms.
+
+### ADAS & AUTONOMOUS SYSTEMS
+Interested in perception, camera systems, embedded visualization, and intelligent vehicle systems.
+
+### COMPUTER VISION
+Real-time object detection, scene understanding, traffic intelligence, and vision-based embedded applications.
+
+### EDGE AI & TINYML
+Deploying compact and optimized ML models on resource-constrained hardware.
+
+### MACHINE LEARNING
+Deep learning, model optimization, recommendation systems, and applied ML pipelines.
+
+### SIGNAL PROCESSING & BRAIN-COMPUTER INTERFACES
+Exploring EEG processing, SSVEP classification, and human-computer interaction.
+
+### INTELLIGENT EMBEDDED SYSTEMS
+Combining electronics, software, machine learning, and hardware to build practical intelligent systems.
+
+---
+
+# CURRENTLY LEARNING
+
+`Hardware-Software Co-Design`
+
+`Efficient ML Inference`
+
+`FPGA Neural Network Acceleration`
+
+`Edge AI Deployment`
+
+`Advanced Computer Vision`
+
+---
+
+<div align="center">
+
+### BUILD. OPTIMIZE. DEPLOY.
+
+<br>
+
+[PORTFOLIO](https://portfolioishita-nine.vercel.app/)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+[LINKEDIN](https://linkedin.com/in/ishita-sahu-8b3165326)
+
+</div>

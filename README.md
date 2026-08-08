@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Ishita Sahu">
+</p>
 <div align="center">
 
 # ISHITA SAHU

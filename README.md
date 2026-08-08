@@ -133,28 +133,28 @@ Researching FPGA-based acceleration of ANN/CNN models using **hls4ml**, AXI-base
 
 # AREAS OF INTEREST
 
-### Embedded AI
+### 01 - Embedded AI
 Building intelligent systems that bring machine learning closer to the edge.
 
-### FPGA & Hardware Acceleration
+### 02 - FPGA & Hardware Acceleration
 Exploring neural-network acceleration, hardware-software co-design, and efficient inference on FPGA platforms.
 
-### ADAS & Autonomous System
+### 03 - ADAS & Autonomous System
 Interested in perception, camera systems, embedded visualization, and intelligent vehicle systems.
 
-### Computer Vision
+### 04 - Computer Vision
 Real-time object detection, scene understanding, traffic intelligence, and vision-based embedded applications.
 
-### Edge AI & TinyML
+### 05 - Edge AI & TinyML
 Deploying compact and optimized ML models on resource-constrained hardware.
 
-### Machine Learning
+### 06 - Machine Learning
 Deep learning, model optimization, recommendation systems, and applied ML pipelines.
 
-### Signal Processing & Brain-Computer Interface
+### 07 - Signal Processing & Brain-Computer Interface
 Exploring EEG processing, SSVEP classification, and human-computer interaction.
 
-### Intelligent Embedded Systems
+### 08 - Intelligent Embedded Systems
 Combining electronics, software, machine learning, and hardware to build practical intelligent systems.
 
 ---

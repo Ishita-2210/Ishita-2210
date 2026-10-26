@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+  <title id="title">Ishita Sahu — embedded systems and applied intelligence</title>
+  <desc id="desc">An original sage and burgundy engineering banner with fine signal lines connecting perception, inference and systems.</desc>
+  <rect width="1200" height="210" rx="14" fill="#f5f4ee"/>
+  <path d="M38 34H1162M38 176H1162" stroke="#d4d9ce"/>
+  <rect x="38" y="62" width="5" height="80" rx="2" fill="#75424b"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="66" y="101" font-size="42" font-weight="600" letter-spacing="4" fill="#24392f">ISHITA SAHU</text>
+    <text x="68" y="134" font-size="18" letter-spacing="2" fill="#586d5b">EMBEDDED SYSTEMS · APPLIED INTELLIGENCE</text>
+    <text x="788" y="75" font-size="13" letter-spacing="1.5" fill="#75424b">PERCEPTION</text>
+    <text x="870" y="144" font-size="13" letter-spacing="1.5" fill="#586d5b">INFERENCE</text>
+    <text x="1030" y="75" font-size="13" letter-spacing="1.5" fill="#75424b">SYSTEMS</text>
+  </g>
+  <g fill="none" stroke="#859983" stroke-width="1.5">
+    <path d="M764 105H831L865 122H975L1009 105H1136"/>
+    <path d="M764 122H813L847 88H993L1027 122H1136"/>
+    <circle cx="764" cy="105" r="4" fill="#f5f4ee"/>
+    <circle cx="1136" cy="105" r="4" fill="#f5f4ee"/>
+    <rect x="897" y="80" width="40" height="50" rx="5" fill="#f5f4ee"/>
+    <path d="M906 72V80M918 72V80M930 72V80M906 130V138M918 130V138M930 130V138"/>
+  </g>
+</svg>

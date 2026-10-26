@@ -1,22 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
-  <title id="title">Ishita Sahu — embedded systems and applied intelligence</title>
-  <desc id="desc">An original sage and burgundy engineering banner with fine signal lines connecting perception, inference and systems.</desc>
-  <rect width="1200" height="210" rx="14" fill="#f5f4ee"/>
-  <path d="M38 34H1162M38 176H1162" stroke="#d4d9ce"/>
-  <rect x="38" y="62" width="5" height="80" rx="2" fill="#75424b"/>
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="66" y="101" font-size="42" font-weight="600" letter-spacing="4" fill="#24392f">ISHITA SAHU</text>
-    <text x="68" y="134" font-size="18" letter-spacing="2" fill="#586d5b">EMBEDDED SYSTEMS · APPLIED INTELLIGENCE</text>
-    <text x="788" y="75" font-size="13" letter-spacing="1.5" fill="#75424b">PERCEPTION</text>
-    <text x="870" y="144" font-size="13" letter-spacing="1.5" fill="#586d5b">INFERENCE</text>
-    <text x="1030" y="75" font-size="13" letter-spacing="1.5" fill="#75424b">SYSTEMS</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-labelledby="title desc">
+  <title id="title">Ishita Sahu — code, circuits and curiosity</title>
+  <desc id="desc">Bold ivory lettering against near black, with an original flowing orbit of acid lime and lavender light. Embedded systems and applied intelligence.</desc>
+  <defs>
+    <radialGradient id="forest">
+      <stop stop-color="#294A30" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#080B0C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="plum">
+      <stop stop-color="#51394E" stop-opacity=".68"/>
+      <stop offset="1" stop-color="#080B0C" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="orbit" x1="930" y1="365" x2="1395" y2="122" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B9A4FF"/>
+      <stop offset=".42" stop-color="#F2F1E8"/>
+      <stop offset=".72" stop-color="#D5FF68"/>
+      <stop offset="1" stop-color="#6A963E"/>
+    </linearGradient>
+    <linearGradient id="ribbon" x1="1044" y1="113" x2="1258" y2="370" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D5FF68" stop-opacity=".02"/>
+      <stop offset=".52" stop-color="#B9A4FF" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#D5FF68" stop-opacity=".03"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <filter id="fineGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <path id="loop" d="M972 342C878 297 932 179 1082 137C1259 87 1454 132 1424 244C1393 361 1153 428 1047 370C944 314 1070 208 1222 226C1390 246 1360 342 1258 374"/>
+  </defs>
+
+  <rect width="1600" height="480" rx="18" fill="#080B0C"/>
+  <ellipse cx="1150" cy="310" rx="405" ry="265" fill="url(#forest)"/>
+  <ellipse cx="1412" cy="128" rx="340" ry="250" fill="url(#plum)"/>
+
+  <g font-family="Consolas, Monaco, monospace" font-size="15" letter-spacing="2.2">
+    <text x="82" y="60" fill="#D5FF68">CODE, CIRCUITS &amp; CURIOSITY.</text>
+    <text x="1518" y="60" text-anchor="end" fill="#A0A69D">IS / 01</text>
   </g>
-  <g fill="none" stroke="#859983" stroke-width="1.5">
-    <path d="M764 105H831L865 122H975L1009 105H1136"/>
-    <path d="M764 122H813L847 88H993L1027 122H1136"/>
-    <circle cx="764" cy="105" r="4" fill="#f5f4ee"/>
-    <circle cx="1136" cy="105" r="4" fill="#f5f4ee"/>
-    <rect x="897" y="80" width="40" height="50" rx="5" fill="#f5f4ee"/>
-    <path d="M906 72V80M918 72V80M930 72V80M906 130V138M918 130V138M930 130V138"/>
+
+  <g fill="#F2F1E8" font-family="Arial Black, Arial, Helvetica, sans-serif" font-weight="900" font-size="164" letter-spacing="-9">
+    <text x="72" y="222">ISHITA</text>
+    <text x="72" y="374">SAHU<tspan fill="#D5FF68">.</tspan></text>
+  </g>
+  <text x="83" y="425" fill="#A0A69D" font-family="Consolas, Monaco, monospace" font-size="17" letter-spacing="2.4">EMBEDDED SYSTEMS. APPLIED INTELLIGENCE.</text>
+
+  <g transform="rotate(-8 1180 255)">
+    <path d="M974 340C883 290 939 174 1084 135C1252 90 1447 131 1422 243C1395 355 1154 428 1047 369C1144 397 1336 326 1353 253C1371 172 1191 139 1083 181C974 223 948 296 974 340Z" fill="url(#ribbon)"/>
+    <use href="#loop" fill="none" stroke="#B9A4FF" stroke-width="22" opacity=".28" filter="url(#softGlow)"/>
+    <use href="#loop" fill="none" stroke="#D5FF68" stroke-width="11" opacity=".4" filter="url(#fineGlow)"/>
+    <use href="#loop" fill="none" stroke="url(#orbit)" stroke-width="3.8" stroke-linecap="round"/>
+    <path d="M944 299C922 214 1036 127 1200 129C1387 131 1449 246 1334 320C1238 381 1013 395 981 318C948 237 1166 142 1282 198C1400 255 1244 366 1129 354" fill="none" stroke="#B9A4FF" stroke-width="1.3" opacity=".52"/>
+    <path d="M982 352C902 296 977 165 1141 137C1306 109 1425 177 1394 265C1360 361 1161 410 1061 365" fill="none" stroke="#D5FF68" stroke-width=".8" opacity=".42"/>
+    <path d="M1039 166C1145 110 1323 126 1382 191" fill="none" stroke="#F2F1E8" stroke-width="1" opacity=".26"/>
+    <circle cx="972" cy="342" r="5" fill="#F2F1E8"/>
+    <circle cx="1258" cy="374" r="5" fill="#D5FF68"/>
+    <circle cx="1424" cy="244" r="3" fill="#D5FF68"/>
+  </g>
+  <g fill="#8F978F" font-family="Consolas, Monaco, monospace" font-size="14" letter-spacing="1.6">
+    <text x="972" y="434">PERCEPTION</text>
+    <text x="1142" y="434" fill="#B9A4FF">↗</text>
+    <text x="1192" y="434">POSSIBILITY</text>
   </g>
 </svg>

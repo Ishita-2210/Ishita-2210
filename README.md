@@ -1,60 +1,67 @@
-![Ishita Sahu — embedded systems and applied intelligence](assets/profile-banner.svg)
+![Ishita Sahu — code, circuits and curiosity](assets/profile-banner.svg)
 
-# Ishita Sahu
+# Code, circuits & curiosity.
 
-**Embedded AI · ADAS software · FPGA research · Applied intelligence**
+Hi, I’m **Ishita Sahu**, an Electronics & Communication Engineering undergraduate at **IIIT Kottayam (2024–2028)**. I work across embedded software, applied AI and hardware-aware machine learning. I like turning a signal or a model into something you can interact with.
 
-Electronics & Communication Engineering undergraduate at **IIIT Kottayam (2024–2028)**. I build software for intelligent systems, with experience in embedded camera interfaces and ongoing research in hardware-aware machine learning. My public work explores perception, retrieval, recommendation and the engineering needed to make those systems inspectable.
+[Portfolio ↗](https://portfolioishita-nine.vercel.app/) · [Resume overview](RESUME.md) · [LinkedIn](https://www.linkedin.com/in/ishita-sahu-8b3165326/) · [All builds](https://github.com/Ishita-2210?tab=repositories)
 
-[Portfolio](https://portfolioishita-nine.vercel.app/) · [Resume overview](RESUME.md) · [LinkedIn](https://www.linkedin.com/in/ishita-sahu-8b3165326/) · [All repositories](https://github.com/Ishita-2210?tab=repositories)
+## Six things I’ve been building
 
-## Selected work
+### 01 / [SentinelAI](https://github.com/Ishita-2210/SentinelAI)
 
-| Project | Implementation and evidence |
-| --- | --- |
-| [SentinelAI](https://github.com/Ishita-2210/SentinelAI) | Local YOLO/ByteTrack video processing, temporal events, SQLite/JPEG evidence and a FastAPI dashboard. Local-model observations link back to sources; hardware and field-accuracy limits are explicit. |
-| [Scout AI](https://github.com/Ishita-2210/scout-ai) | Education-support assistant with six specialist domains, structured Groq responses, PDF text retrieval, optional web search and owned conversation history. Backend and browser contracts exercise the current implementation. |
-| [TeamForge — Talent-to-Team](https://github.com/Ishita-2210/teamforge-recommender) | Teammate ranking from skill requirements, semantic caches and graph relationships. A weighted baseline and optional trained rankers are separated; tests check ranking and constraint behavior. |
-| [BlinkGrid Analytics Dashboard](https://github.com/Ishita-2210/blinkgrid-analytics-dashboard) | React/Express/PostgreSQL support analytics with parameterized aggregation and explicit UI states. HTTP contracts and an isolated PostgreSQL integration suite make the data path reviewable. |
-| [Dynamic Parking Pricing](https://github.com/Ishita-2210/Capstone_iitg) | Occupancy- and demand-based pricing experiments, with bounded pricing, reproducible inputs and a Pathway CSV change-stream workflow. Historical notebook experiments remain available alongside the maintained entry point. |
-| [Image Entropy Analyzer](https://github.com/Ishita-2210/image-entropy-analyzer) | A shared Python engine for React, FastAPI and CLI analysis: information theory, colour/spatial/frequency measurements and actual codec comparisons, supported by numerical and browser checks. |
+*A memory for video.* Object tracking becomes temporal events, saved keyframes and a local dashboard. FastAPI, SQLite, Florence-2 and SmolLM2 connect each observation to its source. [Inside the system →](https://github.com/Ishita-2210/SentinelAI/blob/main/docs/ARCHITECTURE.md)
 
-Scout, TeamForge, BlinkGrid and parking pricing connect directly to the projects described in my resumes. Their READMEs explain current behavior and the evidence required to reproduce it. Historical provider designs and resume-reported benchmarks are kept distinct from the current public implementation.
+### 02 / [Scout AI](https://github.com/Ishita-2210/scout-ai)
 
-## Industry and research
+*Finding the next step in education.* A React workspace brings together six specialist domains, structured Groq responses, PDF references, web search and saved conversations. [Build notes →](https://github.com/Ishita-2210/scout-ai/blob/main/docs/AUDIT.md)
 
-**Project Trainee — Embedded ADAS Software Engineering**
-Transportation Business Unit · **May 2026–Present**
+### 03 / [TeamForge — Talent-to-Team](https://github.com/Ishita-2210/teamforge-recommender)
 
-Python/C++ camera navigation and gesture interpolation, PyQt5/OpenGL interfaces, UDP pose synchronization and JSON-driven configuration for embedded Linux environments. Work includes integration across Texas Instruments and Qualcomm platforms.
+*Skills meet relationships.* Teammate recommendations combine skill requirements, semantic caches and graph signals, with a weighted baseline and optional trained rankers. [Ranking and setup →](https://github.com/Ishita-2210/teamforge-recommender#ranking-and-optional-artifacts)
 
-**Research Intern — FPGA-Based Machine Learning Acceleration**
+### 04 / [BlinkGrid Analytics](https://github.com/Ishita-2210/blinkgrid-analytics-dashboard)
+
+*Support data, made legible.* PostgreSQL aggregation, an Express API and a React widget reveal recurring unresolved customer issues. [Follow the query →](https://github.com/Ishita-2210/blinkgrid-analytics-dashboard#sql-query)
+
+### 05 / [Dynamic Parking Pricing](https://github.com/Ishita-2210/Capstone_iitg)
+
+*Prices as data changes.* Occupancy and demand feed bounded pricing rules, pandas experiments and a Pathway CSV change-stream pipeline. [Run the stream →](https://github.com/Ishita-2210/Capstone_iitg#run-the-pathway-csv-pipeline)
+
+### 06 / [Image Entropy Analyzer](https://github.com/Ishita-2210/image-entropy-analyzer)
+
+*Looking closer at pixels.* A React workbench, FastAPI and a shared Python engine explore information theory, colour, spatial structure, frequency and actual codec comparisons. [Explore the workbench →](https://github.com/Ishita-2210/image-entropy-analyzer#what-works)
+
+## Where I’m building
+
+**Project Trainee — Embedded ADAS Software Engineering**<br>
+Transportation Business Unit, Bengaluru · **May 2026–Present**
+
+Python/C++ camera navigation and gesture interpolation, PyQt5/OpenGL interfaces, UDP pose synchronization and JSON-driven configuration for embedded Linux on Texas Instruments and Qualcomm platforms.
+
+**Research Intern — FPGA-Based Machine Learning Acceleration**<br>
 Sphinx Lab, IIIT Kottayam · **May 2026–Present**
 
-ANN/CNN inference research using hls4ml, quantization and custom AXI-interfaced IP for **Xilinx ZCU102**, with Vivado and MATLAB/Simulink workflows. Hardware measurements and proprietary industry implementation are not claimed as results of the public repositories.
+Ongoing ANN/CNN inference research with hls4ml, quantization and custom AXI-interfaced IP for **Xilinx ZCU102**, using Vivado and MATLAB/Simulink.
 
 ## Technical toolkit
 
-| Area | Languages, tools and concepts |
-| --- | --- |
-| Programming | Python, C/C++, Verilog HDL, SQL, TypeScript/JavaScript, MATLAB |
-| Embedded and hardware | hls4ml, Vivado, AXI, Xilinx ZCU102, ESP32, Embedded Linux, hardware/software co-design |
-| Learning and perception | NumPy, pandas, SciPy, scikit-learn, XGBoost, PyTorch, TensorFlow, YOLO, OpenCV, OpenGL |
-| AI applications | Structured outputs, retrieval, specialist orchestration, Groq, Gemini, Google ADK, Serper, sentence embeddings |
-| Application engineering | React, FastAPI, Express, Flask, PostgreSQL, SQLite, Git, Linux, CMake, pytest and GitHub Actions |
+- **Languages:** Python · C/C++ · Verilog HDL · SQL · TypeScript/JavaScript · MATLAB
+- **Embedded:** hls4ml · Vivado · AXI · ZCU102 · ESP32 · Embedded Linux
+- **Models & perception:** PyTorch · TensorFlow · scikit-learn · XGBoost · NumPy/pandas/SciPy · YOLO/OpenCV
+- **AI applications:** structured outputs · retrieval · Groq · Gemini/Google ADK · Serper · sentence embeddings
+- **Interfaces & services:** React · FastAPI · Express · Flask · PostgreSQL · SQLite · Git · CMake · pytest
 
-## Foundations, experiments and contributions
+## More from the workshop
 
-- **Numerical foundations:** [linear regression](https://github.com/Ishita-2210/Linear_regression_scratch), [logistic regression](https://github.com/Ishita-2210/Logistic-Regression-Scratch) and a [two-layer NumPy neural network](https://github.com/Ishita-2210/2---Layer-Neural-Network-from-Scratch-), with gradient and numerical regression checks.
-- **Retrieval and interfaces:** [Mini Google Search](https://github.com/Ishita-2210/Mini-Google-Search), [Aura](https://github.com/Ishita-2210/Aura---AI-Wellness-Companion) and [BigQuery Release Hub](https://github.com/Ishita-2210/ishita-bigquery-release-hub).
-- **Maintained forks:** [Green Fleet Optimizer](https://github.com/Ishita-2210/green-fleet-optimizer) and [microplastics visualization](https://github.com/Ishita-2210/nanoparicle_simulation) retain their original authorship and validation limits.
+**Ongoing:** an EEG/SSVEP chess interface with FBCCA and ESP32 stimulation, and CCTV traffic-density/signal-control research with YOLO/OpenCV.
 
-## Ongoing work and community
+**Small experiments:** [Mini Google Search](https://github.com/Ishita-2210/Mini-Google-Search), [Aura](https://github.com/Ishita-2210/Aura---AI-Wellness-Companion), [BigQuery Release Hub](https://github.com/Ishita-2210/ishita-bigquery-release-hub), and the maths behind [linear regression](https://github.com/Ishita-2210/Linear_regression_scratch), [logistic regression](https://github.com/Ishita-2210/Logistic-Regression-Scratch) and a [NumPy neural network](https://github.com/Ishita-2210/2---Layer-Neural-Network-from-Scratch-).
 
-My resumes also describe an **EEG/SSVEP chess interface** using FBCCA and ESP32 stimulation, and a **CCTV traffic-intelligence project**. Both remain ongoing; public source is not available in this account. SentinelAI is a separate video-evidence project, not a completed traffic-signal controller.
+**Maintained forks:** [Green Fleet Optimizer](https://github.com/Ishita-2210/green-fleet-optimizer), from [nidhiiiii0707](https://github.com/nidhiiiii0707/green-fleet-optimizer), and [microplastics visualization](https://github.com/Ishita-2210/nanoparicle_simulation), from [vasu-era](https://github.com/vasu-era/nanoparicle_simulation).
 
-Core Member, **Beta Labs (AI/ML)** · **Placement Cell Coordinator** · **TEDx IIIT Kottayam PR & Outreach**
+Away from the builds: **Beta Labs (AI/ML) core member**, **Placement Cell Coordinator**, and **TEDx IIIT Kottayam PR & Outreach**.
 
 ---
 
-Start with a project's setup, tests and limitations, or read the [resume overview](RESUME.md) for education, experience and selected training.
+Have a look around. Start with a build, visit the [portfolio](https://portfolioishita-nine.vercel.app/), or read my [resume overview](RESUME.md).

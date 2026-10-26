@@ -1,186 +1,52 @@
-<p align="center">
-  <img src="./Banner.png" width="100%" alt="Ishita Sahu">
-</p>
-<div align="center">
+# Ishita Sahu
 
+**Embedded AI · FPGA · ADAS · Computer Vision**
 
+Electronics & Communication Engineering undergraduate at **IIIT Kottayam**, working at the intersection of machine learning, embedded software and hardware acceleration. I’m interested in how intelligent systems behave beyond the model: their inputs, interfaces, constraints and deployment.
 
-### Embedded AI · FPGA · ADAS · Computer Vision
+[Portfolio](https://portfolioishita-nine.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ishita-sahu-8b3165326/) · [Repositories](https://github.com/Ishita-2210?tab=repositories)
 
-Electronics & Communication Engineering @ IIIT Kottayam
+## Selected engineering work
 
-<br>
+| Project | What you can explore |
+| --- | --- |
+| [SentinelAI](https://github.com/Ishita-2210/SentinelAI) | Local video intelligence: YOLO11n/ByteTrack tracking, deterministic events, SQLite/JPEG evidence and source-linked local-model answers. FastAPI dashboard and preserved ESP32 telemetry firmware; camera-hardware and model-quality limits are documented. |
+| [Image Entropy Analyzer](https://github.com/Ishita-2210/image-entropy-analyzer) | An image-analysis workbench with a shared Python engine for FastAPI, React and CLI workflows. Entropy, spatial/frequency analysis, real codec comparisons and transformation pipelines, with explicit measurement conventions. |
+| [Scout AI](https://github.com/Ishita-2210/scout-ai) | Education-support guidance through six specialist domains. React, FastAPI, Groq, optional search, source references and owned conversation history; provider-boundary tests and browser journeys document the behavior. |
+| [Green Fleet Optimizer](https://github.com/Ishita-2210/green-fleet-optimizer) | A maintained **fork** exploring maritime optimization, fuel-model integration and natural-language requests. Explicit feasibility checks and unit assumptions; upstream attribution and historical results are retained. |
+| [BlinkGrid Analytics](https://github.com/Ishita-2210/blinkgrid-analytics-dashboard) | A React/Express/PostgreSQL assessment project for recurring unresolved customer issues. Parameterized aggregation, validated IDs and loading/empty/error states, with HTTP regression tests. |
+| [TeamForge](https://github.com/Ishita-2210/teamforge-recommender) | Explainable teammate ranking from skills, semantic caches and graph signals. A runnable weighted baseline, optional trained rankers, SQLite constraint experiments and tests using synthetic inputs. |
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-B11226?style=for-the-badge&logo=vercel&logoColor=EFEEE9)](https://portfolioishita-nine.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=EFEEE9)](https://linkedin.com/in/ishita-sahu-8b3165326)
-[![Email](https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=EFEEE9)](mailto:ishitasahu2210@gmail.com)
+## Foundations and experiments
 
-</div>
+- **Learning the mathematics:** [linear regression](https://github.com/Ishita-2210/Linear_regression_scratch), [logistic regression](https://github.com/Ishita-2210/Logistic-Regression-Scratch) and a [two-layer NumPy neural network](https://github.com/Ishita-2210/2---Layer-Neural-Network-from-Scratch-), with numerical regression checks.
+- **Retrieval and data:** [Mini Google Search](https://github.com/Ishita-2210/Mini-Google-Search) implements inverted indexing, Boolean search and cosine ranking; [parking-pricing experiments](https://github.com/Ishita-2210/Capstone_iitg) distinguish the runnable pandas models from unfinished streaming work.
+- **Interfaces and tools:** [Aura](https://github.com/Ishita-2210/Aura---AI-Wellness-Companion) combines local wellness tracking with optional generated affirmations; [BigQuery Release Hub](https://github.com/Ishita-2210/ishita-bigquery-release-hub) parses and filters release updates; [portfolio source](https://github.com/Ishita-2210/Portfolio_Ishita) is a static HTML site.
+- **Visualization:** [microplastics simulation](https://github.com/Ishita-2210/nanoparicle_simulation) is an upstream-attributed fork with separate saved-map and desktop workflows, not a calibrated environmental model.
 
-<br>
+## Technical toolkit
 
----
+| Area | Technologies and focus |
+| --- | --- |
+| Software and data | Python, C, C++, TypeScript/JavaScript, SQL; NumPy, pandas, scikit-learn, XGBoost |
+| AI and perception | PyTorch, YOLO, OpenCV, sentence embeddings, structured model responses and retrieval |
+| Embedded and hardware | Verilog HDL, Vivado, Vitis, hls4ml, AXI, Xilinx Zynq, ESP32 and Embedded Linux |
+| Applications and reliability | React, FastAPI, Express, PostgreSQL, SQLite, Git, Docker, pytest and GitHub Actions |
 
-## ABOUT ME
+The repositories show implementation details and validation boundaries. Hardware acceleration, efficient inference and hardware/software co-design remain central areas of exploration.
 
-I'm an **Electronics & Communication Engineering undergraduate at IIIT Kottayam** focused on building intelligent systems at the intersection of **machine learning, embedded systems, and hardware acceleration**.
+## Experience
 
-My work spans from developing **embedded ADAS software** and real-time computer vision systems to researching **FPGA-based machine learning acceleration**.
+**Tata Elxsi — Project Trainee, ADAS & Autonomous Driving**
+May 2026 – Present
 
-I enjoy working close to the system — understanding how a model works, optimizing it, and thinking about how it can be efficiently deployed on real hardware.
+Embedded ADAS and Surround View System work, including camera switching, UDP communication, camera-pose synchronization, OpenGL rendering and deployment across TI/Qualcomm platforms.
 
-Currently exploring:
+**SPHINX Lab, IIIT Kottayam — Research Intern, FPGA-Based ML Acceleration**
+May 2026 – Present
 
-`Embedded AI` · `Edge AI` · `FPGA Acceleration` · `ADAS` · `Computer Vision` · `Machine Learning`
-
----
-
-# TECH STACK
-
-### LANGUAGES
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,matlab" height="45"/>
-</p>
-
-`Python` · `C` · `C++` · `Java` · `MATLAB` · `Verilog HDL`
-
----
-
-### AI / MACHINE LEARNING
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" height="45"/>
-</p>
-
-`PyTorch` · `TensorFlow` · `Scikit-learn` · `XGBoost` · `YOLO`
-
-`Hugging Face` · `Sentence Transformers` · `Deep Learning` · `Signal Processing`
+ANN/CNN acceleration with hls4ml, AXI-based custom IP, Xilinx Zynq, quantization and low-latency Edge AI inference.
 
 ---
 
-### FPGA / HARDWARE ACCELERATION
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,arduino" height="45"/>
-</p>
-
-`FPGA` · `Vivado` · `Vitis` · `hls4ml` · `AXI`
-
-`Xilinx Zynq` · `ESP32` · `Embedded Linux`
-
-`Hardware-Software Co-Design` · `Quantization` · `Low-Latency Inference`
-
----
-
-### EMBEDDED / ADAS
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,linux" height="45"/>
-</p>
-
-`C++` · `Python` · `OpenGL` · `PyQt5` · `UDP`
-
-`Embedded Linux` · `Camera Systems` · `ADAS` · `Surround View Systems`
-
----
-
-### AI SYSTEMS
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,postgres" height="45"/>
-</p>
-
-`Google ADK` · `Gemini API` · `RAG` · `Multi-Agent Systems`
-
-`SQL` · `REST APIs` · `Tool Calling` · `Agent Orchestration`
-
----
-
-### DEVELOPMENT & TOOLS
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,react,nodejs,postgres" height="45"/>
-</p>
-
-`Git` · `GitHub` · `Docker` · `React` · `TypeScript`
-
-`Node.js` · `Express.js` · `PostgreSQL` · `VS Code`
-
----
-
-# EXPERIENCE
-
-### TATA ELXSI
-
-**Project Trainee — ADAS & Autonomous Driving**
-
-`May 2026 — Present`
-
-Working on embedded ADAS software and a **Surround View System**, including real-time camera switching, UDP communication, camera pose synchronization, OpenGL rendering, and embedded deployment across TI/Qualcomm platforms.
-
----
-
-### SPHINX LAB · IIIT KOTTAYAM
-
-**Research Intern — FPGA-Based ML Acceleration**
-
-`May 2026 — Present`
-
-Researching FPGA-based acceleration of ANN/CNN models using **hls4ml**, AXI-based custom IP, Xilinx Zynq platforms, quantization, and low-latency Edge AI inference.
-
----
-
-# AREAS OF INTEREST
-
-### 01 - Embedded AI
-Building intelligent systems that bring machine learning closer to the edge.
-
-### 02 - FPGA & Hardware Acceleration
-Exploring neural-network acceleration, hardware-software co-design, and efficient inference on FPGA platforms.
-
-### 03 - ADAS & Autonomous System
-Interested in perception, camera systems, embedded visualization, and intelligent vehicle systems.
-
-### 04 - Computer Vision
-Real-time object detection, scene understanding, traffic intelligence, and vision-based embedded applications.
-
-### 05 - Edge AI & TinyML
-Deploying compact and optimized ML models on resource-constrained hardware.
-
-### 06 - Machine Learning
-Deep learning, model optimization, recommendation systems, and applied ML pipelines.
-
-### 07 - Signal Processing & Brain-Computer Interface
-Exploring EEG processing, SSVEP classification, and human-computer interaction.
-
-### 08 - Intelligent Embedded Systems
-Combining electronics, software, machine learning, and hardware to build practical intelligent systems.
-
----
-
-# CURRENTLY LEARNING
-
-`Hardware-Software Co-Design`
-
-`Efficient ML Inference`
-
-`FPGA Neural Network Acceleration`
-
-`Edge AI Deployment`
-
-`Advanced Computer Vision`
-
----
-
-<div align="center">
-
-### BUILD. OPTIMIZE. DEPLOY.
-
-<br>
-
-[PORTFOLIO](https://portfolioishita-nine.vercel.app/)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[LINKEDIN](https://linkedin.com/in/ishita-sahu-8b3165326)
-
-</div>
+Explore the code, run the checks, and follow each project’s documented limitations. More about my work: [portfolio](https://portfolioishita-nine.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ishita-sahu-8b3165326/).

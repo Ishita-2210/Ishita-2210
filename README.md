@@ -2,11 +2,25 @@
 
 # Code, circuits & curiosity.
 
-Hi, I’m **Ishita Sahu**, an Electronics & Communication Engineering undergraduate at **IIIT Kottayam (2024–2028)**. I work across embedded software, applied AI and hardware-aware machine learning. I like turning a signal or a model into something you can interact with.
+Hi, I’m **Ishita Sahu**, an Electronics & Communication Engineering undergraduate at **IIIT Kottayam (2024–2028)**. I build across **AI/ML, embedded systems and software engineering**.
 
-[Portfolio ↗](https://portfolioishita-nine.vercel.app/) · [Resume overview](RESUME.md) · [LinkedIn](https://www.linkedin.com/in/ishita-sahu-8b3165326/) · [All builds](https://github.com/Ishita-2210?tab=repositories)
+[TinyLink AI](#tinylink-ai) · [MLForge](#mlforge) · [Portfolio ↗](https://portfolioishita-nine.vercel.app/) · [Resume overview](RESUME.md) · [LinkedIn](https://www.linkedin.com/in/ishita-sahu-8b3165326/) · [All builds](https://github.com/Ishita-2210?tab=repositories)
 
-## Six things I’ve been building
+## Flagship projects
+
+### [TinyLink AI](https://github.com/Ishita-2210/TinyLink-AI-ESP32)
+
+**ESP32 on-device Wi-Fi quality prediction.** Embedded C++ firmware runs a compact exported decision tree, with bounded measurement windows, UDP probes, versioned serial telemetry and Python monitoring. Built with **C++, Python, scikit-learn and PlatformIO**.
+
+**Validation:** 65 recorded passing host/tooling tests, 9,071 matching Python/native-C++ predictions and a successful ESP32 cross-build. **Physical ESP32 measurements are pending.** [Results & validation →](https://github.com/Ishita-2210/TinyLink-AI-ESP32/blob/main/docs/results.md)
+
+### [MLForge](https://github.com/Ishita-2210/MLForge)
+
+**End-to-end tabular machine learning.** Classification and regression with train-only preprocessing, leakage-aware model comparison, SQLite experiment tracking, a versioned model registry, local FastAPI inference and input-drift diagnostics. Built with **Python, scikit-learn, Streamlit, FastAPI and SQLite**.
+
+[Live demo →](https://mlforge-nine.vercel.app/) · [Validation & synthetic benchmarks](https://github.com/Ishita-2210/MLForge/blob/main/docs/validation.md). The hosted demo uses temporary storage; persistent local workflows are documented in the repository.
+
+## More selected work
 
 ### 01 / [SentinelAI](https://github.com/Ishita-2210/SentinelAI)
 
@@ -35,22 +49,22 @@ Hi, I’m **Ishita Sahu**, an Electronics & Communication Engineering undergradu
 ## Where I’m building
 
 **Project Trainee — Embedded ADAS Software Engineering**<br>
-Transportation Business Unit, Bengaluru · **May 2026–Present**
+**Tata Elxsi** · Transportation Business Unit, Bengaluru · **May 2026–Present**
 
 Python/C++ camera navigation and gesture interpolation, PyQt5/OpenGL interfaces, UDP pose synchronization and JSON-driven configuration for embedded Linux on Texas Instruments and Qualcomm platforms.
 
 **Research Intern — FPGA-Based Machine Learning Acceleration**<br>
-Sphinx Lab, IIIT Kottayam · **May 2026–Present**
+**Sphinx Lab, IIIT Kottayam** · **May 2026–Present**
 
 Ongoing ANN/CNN inference research with hls4ml, quantization and custom AXI-interfaced IP for **Xilinx ZCU102**, using Vivado and MATLAB/Simulink.
 
 ## Technical toolkit
 
 - **Languages:** Python · C/C++ · Verilog HDL · SQL · TypeScript/JavaScript · MATLAB
-- **Embedded:** hls4ml · Vivado · AXI · ZCU102 · ESP32 · Embedded Linux
+- **Embedded:** ESP32 · PlatformIO · Embedded Linux · hls4ml · Vivado · AXI · ZCU102
 - **Models & perception:** PyTorch · TensorFlow · scikit-learn · XGBoost · NumPy/pandas/SciPy · YOLO/OpenCV
 - **AI applications:** structured outputs · retrieval · Groq · Gemini/Google ADK · Serper · sentence embeddings
-- **Interfaces & services:** React · FastAPI · Express · Flask · PostgreSQL · SQLite · Git · CMake · pytest
+- **Interfaces & tools:** React · Streamlit · FastAPI · Express · Flask · PostgreSQL · SQLite · Git · CMake · pytest · GitHub Actions
 
 ## More from the workshop
 

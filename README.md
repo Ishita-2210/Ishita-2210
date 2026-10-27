@@ -46,17 +46,12 @@ Hi, I’m **Ishita Sahu**, an Electronics & Communication Engineering undergradu
 
 *Looking closer at pixels.* A React workbench, FastAPI and a shared Python engine explore information theory, colour, spatial structure, frequency and actual codec comparisons. [Explore the workbench →](https://github.com/Ishita-2210/image-entropy-analyzer#what-works)
 
-## Where I’m building
+## Industry experience
 
 **Project Trainee — Embedded ADAS Software Engineering**<br>
-**Tata Elxsi** · Transportation Business Unit, Bengaluru · **May 2026–Present**
+**Tata Elxsi** · Transportation Business Unit, Bengaluru · **May–July 2026**
 
 Python/C++ camera navigation and gesture interpolation, PyQt5/OpenGL interfaces, UDP pose synchronization and JSON-driven configuration for embedded Linux on Texas Instruments and Qualcomm platforms.
-
-**Research Intern — FPGA-Based Machine Learning Acceleration**<br>
-**Sphinx Lab, IIIT Kottayam** · **May 2026–Present**
-
-Ongoing ANN/CNN inference research with hls4ml, quantization and custom AXI-interfaced IP for **Xilinx ZCU102**, using Vivado and MATLAB/Simulink.
 
 ## Technical toolkit
 

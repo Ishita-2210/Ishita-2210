@@ -15,18 +15,11 @@ CGPA: **8.23/10**, as recorded in both resumes.
 ## Experience
 
 **Project Trainee — Embedded ADAS Software Engineering**
-Transportation Business Unit, Bengaluru · **May 2026–Present**
+**Tata Elxsi** · Transportation Business Unit, Bengaluru · **May–July 2026**
 
 - Python/C++ work on surround-view camera navigation, gesture interpolation, pose synchronization and rendering integration.
 - PyQt5/OpenGL interfaces, UDP communication and JSON-based camera configuration for embedded Linux systems.
 - Cross-functional debugging of SDK, networking and rendering integration for TI/Qualcomm-based platforms.
-
-**Research Intern — FPGA-Based Machine Learning Acceleration**
-Sphinx Lab, IIIT Kottayam · **May 2026–Present**
-
-- ANN/CNN inference pipelines using hls4ml and quantization-aware architectures.
-- AXI-interfaced IP and hardware/software co-design targeting Xilinx ZCU102.
-- Vivado, MATLAB/Simulink and embedded Linux workflows; latency/resource evaluation remains research work, with no public hardware benchmark asserted here.
 
 ## Projects and public evidence
 
